@@ -1,1 +1,1 @@
-To obtain the source files, just extract and run the python files.
+Just run the files.
